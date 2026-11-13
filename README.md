@@ -1,38 +1,56 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Hi+there%2C+I%27m+Pouya+Rostami%21;AI+%26+Computer+Vision+Researcher;Python+Developer;" alt="Typing SVG" />
-  
-  <p><b>AI & Computer Vision Enthusiast | Researcher | Developer</b></p>
-  
-  <img src="https://komarev.com/ghpvc/?username=pouyah3x&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="pouyah3x" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:0D1117&height=200&section=header&text=Pouya%20Rostami&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%7C%20Computer%20Vision%20and%20Applied%20AI&descSize=18&descAlignY=60" alt="header" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=0E75B6&center=true&vCenter=true&width=820&lines=Hi+there%2C+I%27m+Pouya+Rostami!;Machine+Learning+Engineer;Computer+Vision+%26+Applied+AI;From+research+to+production+systems" alt="Typing SVG" />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=pouyah3x&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="views" />
+  <img src="https://img.shields.io/badge/Open%20to-Work-2ea44f?style=for-the-badge" alt="open to work" />
+</p>
+
+<p>
+  <a href="https://linkedin.com/in/pouya-rostami"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:pouyarostamih@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://t.me/pouya_rostami"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://instagram.com/pouya.rostami_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
 </div>
 
-<br/>
+---
 
-### 🕵️‍♂️ About Me
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **AI & Computer Vision projects** (Research Assistant at *Ambassador of AI*)
-- 🌱 I’m currently learning **low-level programming with C** and **advanced deep learning frameworks**
-- 👯 I’m looking to collaborate on **innovative ideas and building new tools from scratch**
-- 🤝 I’m looking for help with **exploring advanced AI techniques and optimization**
-- 📫 How to reach me: **[pouyarostamih@gmail.com](mailto:pouyarostamih@gmail.com)**
-- ⚡ Fun fact: **I think I am funny** 😄
+I build production ML pipelines, optimized inference, and applied AI systems across healthcare, industrial vision, reinforcement learning, and RAG. I'm also the author of a published, validated OCR dataset (19,049 samples).
+
+- 🔭 **Now:** AI Researcher at **Safir AI** and AI Engineer at **Homedicx** (Germany)
+- 🌱 **Learning:** low-level programming with C and advanced deep learning frameworks
+- 👯 **Looking to collaborate on:** computer vision, applied ML, and building new tools from scratch
+- 🎯 **Goal:** becoming a top-tier, all-round expert in computer vision
+- 📫 **Reach me:** [pouyarostamih@gmail.com](mailto:pouyarostamih@gmail.com)
+- ⚡ **Fun fact:** I think I am funny 😄
 
 ---
 
 ### 💼 Experience
 
-- **AI Researcher** – *Ambassador of Artificial Intelligence* (2025–Present)  
-  > Research Assistant under Ahmadreza Afshari – working on cutting‑edge AI/CV projects.
+| Role | Company | Period |
+|------|---------|--------|
+| **AI Researcher** | Safir AI (Remote) | Apr 2025 – Present |
+| **AI Engineer** | Homedicx (Germany) | Mar 2024 – Present |
+| **Computer Vision Engineer** | Nikoff (Zanjan, Iran) | Mar 2024 – Jan 2025 |
+| **Instructor & Teaching Assistant** | University of Zanjan | Design & Analysis of Algorithms, Advanced Python, Theory of Computation |
 
-- **Computer Vision Engineer** – *Nicoff* (2024–Present)  
-  > End‑to‑end development of intelligent systems, from data preparation to deployment.
+<details>
+<summary><b>📌 Highlights (click to expand)</b></summary>
+<br/>
 
-- **AI Engineer** – *Homedix* (Germany, 2024–Present)
+- **Safir AI:** Reproducible CV experiments on large-scale image datasets: preprocessing, transfer learning, object detection, classification, and model optimization.
+- **Homedicx:** End-to-end medical-imaging ML workflows from ingestion to deployment; **cut processing latency by 25%** by optimizing inference pipelines.
+- **Nikoff:** Industrial quality-inspection pipelines from data labeling to deployment; **cut defect-detection processing time by 25%**.
 
-- **Instructor & Teaching Assistant** – *University of Zanjan*
-  > * **Instructor:** Design & Analysis of Algorithms
-  > * **Teaching Assistant:** Advanced Python (3 Semesters)
-  > * **Teaching Assistant:** Theory of Computation (1.5 Years)
+</details>
 
 ---
 
@@ -40,62 +58,71 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [**Genetic Maintenance Optimizer**](https://github.com/PouyaH3X/genetic-maintenance-optimizer) | Multi‑objective optimization using NSGA‑II for maintenance scheduling | `Python` `DEAP` |
-| [**Intelligent Traffic Signal Control**](https://github.com/PouyaH3X/traffic-dqn) | DQN agent + SUMO simulator for real‑time traffic light optimization | `TensorFlow` `SUMO` |
-| [**PHDD Dataset**](https://data.mendeley.com/datasets/8993swpix/2) | 19,049 handwritten samples for OCR – published on Mendeley Data | `Computer Vision` |
-| [**Library Management System**](https://github.com/PouyaH3X/Library_project) | SQL‑integrated desktop app for book & member management | `SQL` `Python GUI` |
-| [**Turing Machine Converter**](https://github.com/PouyaH3X/turing-machine-base-converter-cpp) | C++ simulation of a Turing machine for base conversion | `C++` `Automata` |
-| [**ZIBAI – RealEstate GAN**](https://github.com/PouyaH3X/ZIBAI) | GAN‑based image synthesis and style transfer for real estate | `GAN` `Python` |
-| [**PHDS Preprocessor**](https://github.com/PouyaH3X/data_preprocess_for_phds_dataset) | Image‑cropping and normalization pipeline for OCR datasets | `Python` `OpenCV` |
+| [**PHDD Dataset**](https://data.mendeley.com/datasets/8993swpix/2) | Published, validated Persian handwritten digits & symbols OCR dataset (19,049 samples) | `Computer Vision` `OCR` |
+| [**Traffic Signal Control**](https://github.com/PouyaH3X/traffic-dqn) | Deep-RL (DQN) controller that **cut average vehicle waiting time by 30%** | `TensorFlow` `SUMO` `TraCI` |
+| [**Genetic Maintenance Optimizer**](https://github.com/PouyaH3X/genetic-maintenance-optimizer) | Multi-objective maintenance scheduling with NSGA-II | `Python` `DEAP` |
+| [**ZIBAI: Real Estate GAN**](https://github.com/PouyaH3X/ZIBAI) | GAN-based image synthesis and style transfer for real estate | `GAN` `Python` |
+| [**PHDS Preprocessor**](https://github.com/PouyaH3X/data_preprocess_for_phds_dataset) | Image-cropping and normalization pipeline for OCR datasets | `Python` `OpenCV` |
+| [**MiniLang Compiler**](https://github.com/PouyaH3X/minilang-compiler) | Compiler with lexical, syntax, and semantic analysis plus 3-address code generation | `Python` |
+| [**Turing Machine Converter**](https://github.com/PouyaH3X/turing-machine-base-converter-cpp) | C++ Turing machine simulation for base conversion | `C++` `Automata` |
+| [**Library Management System**](https://github.com/PouyaH3X/Library_project) | SQL-integrated desktop app for book & member management | `SQL` `Python GUI` |
 
 ---
 
 ### 🛠️ Languages and Tools
 
 <div align="center">
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45" style="margin: 5px;"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45" style="margin: 5px;"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45" style="margin: 5px;"/> </a> 
-  <a href="https://www.rust-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="45" height="45" style="margin: 5px;"/> </a> 
-  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="45" height="45" style="margin: 5px;"/> </a> 
-  <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="45" height="45" style="margin: 5px;"/> </a> 
-  <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="45" height="45" style="margin: 5px;"/> </a> 
-  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="45" height="45" style="margin: 5px;"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45" style="margin: 5px;"/> </a> 
-  <br/>
-  <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="45" height="45" style="margin: 5px;"/> </a> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45" style="margin: 5px;"/> </a> 
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45" style="margin: 5px;"/> </a> 
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45" style="margin: 5px;"/> </a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="45" height="45" style="margin: 5px;"/> </a> 
-  <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="45" height="45" style="margin: 5px;"/> </a> 
-  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="45" height="45" style="margin: 5px;"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="45" style="margin: 5px;"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45" style="margin: 5px;"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="45" height="45" style="margin: 5px;"/> </a> 
+
+<img src="https://skillicons.dev/icons?i=py,cpp,c,rust,java,matlab,bash&perline=7" alt="languages" />
+<br/><br/>
+<a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="48" height="48" style="margin: 6px;"/></a>
+<a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="48" height="48" style="margin: 6px;"/></a>
+<a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48" style="margin: 6px;"/></a>
+<a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="48" height="48" style="margin: 6px;"/></a>
+<a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48" style="margin: 6px;"/></a>
+<a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="48" height="48" style="margin: 6px;"/></a>
+<br/><br/>
+<a href="https://fastapi.tiangolo.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="48" height="48" style="margin: 6px;"/></a>
+<a href="https://www.djangoproject.com/"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="48" height="48" style="margin: 6px;"/></a>
+<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="48" height="48" style="margin: 6px;"/></a>
+<a href="https://redis.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="48" height="48" style="margin: 6px;"/></a>
+<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="48" height="48" style="margin: 6px;"/></a>
+<a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="48" height="48" style="margin: 6px;"/></a>
+
 </div>
 
----
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pouyah3x&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Pouya's Activity Graph" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pouyah3x&theme=tokyonight&hide_border=true" alt="Pouya's Streak" />
+
+`Deep Learning` · `Reinforcement Learning` · `GANs` · `RAG` · `Bayesian Deep Learning` · `Uncertainty Quantification` · `Transfer Learning` · `Inference Optimization` · `Real-Time Video Processing` · `NSGA-II` · `Genetic Algorithms` · `Monte Carlo Methods` · `Celery` · `Weaviate`
+
 </div>
 
 ---
 
-### 🌐 Connect with Me
+### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://linkedin.com/in/pouya-rostami" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/pouya.rostami_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:pouyarostamih@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=pouyah3x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pouyah3x&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="top languages" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pouyah3x&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pouyah3x&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%" />
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect
+
+<a href="https://linkedin.com/in/pouya-rostami"><img src="https://img.shields.io/badge/Let's%20talk-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:pouyarostamih@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0E75B6&height=120&section=footer" alt="footer" width="100%"/>
+
 </div>
